@@ -1,4 +1,4 @@
-package reverse
+package morestrings
 
 import "testing"
 
